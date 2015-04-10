@@ -14,6 +14,7 @@
 		08CB37D61A1452AB00B3F0CD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08CB37D51A1452AB00B3F0CD /* Images.xcassets */; };
 		08CB37D91A1452AB00B3F0CD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 08CB37D71A1452AB00B3F0CD /* LaunchScreen.xib */; };
 		08CB37E51A1452AB00B3F0CD /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08CB37E41A1452AB00B3F0CD /* PhotoFiltersTests.swift */; };
+		08CB37EF1A14543400B3F0CD /* IMG_0931.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 08CB37EE1A14543400B3F0CD /* IMG_0931.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		08CB37DE1A1452AB00B3F0CD /* PhotoFiltersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		08CB37E31A1452AB00B3F0CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		08CB37E41A1452AB00B3F0CD /* PhotoFiltersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersTests.swift; sourceTree = "<group>"; };
+		08CB37EE1A14543400B3F0CD /* IMG_0931.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0931.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		08CB37C81A1452AB00B3F0CD /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				08CB37EE1A14543400B3F0CD /* IMG_0931.JPG */,
 				08CB37CB1A1452AB00B3F0CD /* AppDelegate.swift */,
 				08CB37D01A1452AB00B3F0CD /* ViewController.swift */,
 				08CB37D21A1452AB00B3F0CD /* Main.storyboard */,
@@ -195,6 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08CB37EF1A14543400B3F0CD /* IMG_0931.JPG in Resources */,
 				08CB37D41A1452AB00B3F0CD /* Main.storyboard in Resources */,
 				08CB37D91A1452AB00B3F0CD /* LaunchScreen.xib in Resources */,
 				08CB37D61A1452AB00B3F0CD /* Images.xcassets in Resources */,
